@@ -1,0 +1,30 @@
+.img{
+    height: 100%;
+    width: 100%;
+
+}
+
+.accordion{
+    width: 1200px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 380px;
+}
+
+.accordion-body{
+    width: 1170px;
+    height: 380px;
+    margin: 10px 10px  50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 207, 15);
+
+}
+
+.p{
+    font-size: 18px;
+    font-family:Tahoma;
+    text-align: justify;
+}
+

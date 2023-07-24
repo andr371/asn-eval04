@@ -1,0 +1,19 @@
+select{
+    width: 80px;
+    align-items: center;
+}
+
+.box{
+    background-color: rgb(255, 207, 15);
+    font-size: 18px;
+    width: 290px;
+    height: 350px;
+    text-align: center;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-top: 10%;
+    margin-left: 40%;
+    border-radius: 12px;
+}
